@@ -1,7 +1,7 @@
 # 키친포스
 ## multi-module 설정
 - module-main : 빌드 및 배포를 위한 통합모듈
-- module-common : 비즈니스로직에 속하지 않은 공통 모듈
+- module-common : 특정 비즈니스로직에 속하지 않는 공통 모듈
 - module-menu : 메뉴 도메인 관련 모듈
 - module-order : 주문 도메인 관련 모듈
 
